@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Hak Artem
 
-🎓 **Ph.D. Student in Applied Mathematics**  
-1st year at [National University of Kyiv-Mohyla Academy](https://www.ukma.edu.ua/eng/)
+🎓 **1st year Ph.D. Student in Applied Mathematics at [National University of Kyiv-Mohyla Academy](https://www.ukma.edu.ua/eng/)**
 
 📍 **Location:** Kyiv/Poltava, Ukraine
 
@@ -82,7 +81,7 @@
 
 ## 🌱 Hobbies & More
 
-- Active member of the [Students Math Seminar](https://www.facebook.com/studmathseminar)  
+- Active member of the [Students' Math Seminar](https://www.facebook.com/studmathseminar)  
 - Passionate about learning, teamwork, and contributing to exciting projects.
 
 
