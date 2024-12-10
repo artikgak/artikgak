@@ -10,6 +10,29 @@
 
 ---
 
+## 🛠️ Work Experience (3+ years total)
+
+- **Dragons Lake Entertainment**  
+  - Junior C++/UE Developer (Apr 2022 – Present, 2 years 6 months)  
+  - Intern C++/UE Developer (Oct 2021 – Mar 2022, 6 months)
+
+- **Center for Responsible AI (Research Program)**  
+  - *Graph Pattern Matching* (Sep 2023 – Dec 2023, 4 months)
+
+- **National University of Kyiv-Mohyla Academy**  
+  - Assistant Professor, Department of Mathematics (Sep 2024 – Present)
+
+---
+
+## 🎓 Education
+
+- **Ph.D. in Applied Mathematics** (Sep 2024 – Jun 2028, ongoing)  
+  [National University of Kyiv-Mohyla Academy](https://www.ukma.edu.ua/eng/)  
+- **Master’s Degree in Computer Science** (Sep 2022 – Jun 2024)  
+- **Bachelor’s Degree in Software Engineering** (Sep 2018 – Jun 2022)
+
+---
+
 ## 🧠 Skills and Interests
 
 - **Research Interests**: Graph Theory, Genetic Algorithms, Mathematical Logic  
@@ -52,29 +75,6 @@
 7. **Block operator iterations**  
    *(Preprint available)*  
    [Read preprint](https://docs.google.com/document/d/1Z7XCDZkEUyx3IaNGK3WPWa8nxylM5d0197dQlJACSos/edit)
-
----
-
-## 🛠️ Work Experience (3+ years total)
-
-- **Dragons Lake Entertainment**  
-  - Junior C++/UE Developer (Apr 2022 – Present, 2 years 6 months)  
-  - Intern C++/UE Developer (Oct 2021 – Mar 2022, 6 months)
-
-- **Center for Responsible AI (Research Program)**  
-  - *Graph Pattern Matching* (Sep 2023 – Dec 2023, 4 months)
-
-- **National University of Kyiv-Mohyla Academy**  
-  - Assistant Professor, Department of Mathematics (Sep 2024 – Present)
-
----
-
-## 🎓 Education
-
-- **Ph.D. in Applied Mathematics** (Sep 2024 – Jun 2028, ongoing)  
-  [National University of Kyiv-Mohyla Academy](https://www.ukma.edu.ua/eng/)  
-- **Master’s Degree in Computer Science** (Sep 2022 – Jun 2024)  
-- **Bachelor’s Degree in Software Engineering** (Sep 2018 – Jun 2022)
 
 ---
 
