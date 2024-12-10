@@ -3,35 +3,23 @@
 🎓 **Ph.D. Student in Applied Mathematics**  
 1st year at [National University of Kyiv-Mohyla Academy](https://www.ukma.edu.ua/eng/)
 
-📍 **Location:** Kyiv, Ukraine  
-📞 **Mobile:** +380997790919  
-📧 **Email:** [artikgak@ukr.net](mailto:artikgak@ukr.net)  
-🔗 **LinkedIn:** [artem-hak-b025461a6](https://www.linkedin.com/in/artem-hak-b025461a6)  
-💻 **GitHub:** [artikgak](https://github.com/artikgak)  
+📍 **Location:** Kyiv/Poltava, Ukraine  
+📧 **Emails:** [artikgak@ukr.net](mailto:artikgak@ukr.net), [artem.hak@ukma.edu.ua](mailto:artem.hak@ukma.edu.ua)
 📚 **Google Scholar:** [Artem Hak](https://scholar.google.com)
+🔗 **LinkedIn:** [artem-hak-b025461a6](https://www.linkedin.com/in/artem-hak-b025461a6)
 
 ---
 
-## 🛠️ Work Experience (3+ years total)
+## 🧠 Skills and Interests
 
-- **Dragons Lake Entertainment**  
-  - Junior C++/UE Developer (Apr 2022 – Present, 2 years 6 months)  
-  - Intern C++/UE Developer (Oct 2021 – Mar 2022, 6 months)
+- **Research Interests**: Graph Theory, Genetic Algorithms, Mathematical Logic  
+  Additional: Combinatorics, Set Theory, Foundations of Mathematics, Category Theory, Functional Programming.
 
-- **Center for Responsible AI (Research Program)**  
-  - *Graph Pattern Matching* (Sep 2023 – Dec 2023, 4 months)
+- **Technical Skills**:  
+  C++, Unreal Engine, Haskell, C#, Java, LaTeX, Python (basic)
 
-- **National University of Kyiv-Mohyla Academy**  
-  - Assistant Professor, Department of Mathematics (Sep 2024 – Present)
-
----
-
-## 🎓 Education
-
-- **Ph.D. in Applied Mathematics** (Sep 2024 – Jun 2028, ongoing)  
-  [National University of Kyiv-Mohyla Academy](https://www.ukma.edu.ua/eng/)  
-- **Master’s Degree in Computer Science** (Sep 2022 – Jun 2024)  
-- **Bachelor’s Degree in Software Engineering** (Sep 2018 – Jun 2022)
+- **Languages**:  
+  Advanced English, Native Ukrainian
 
 ---
 
@@ -67,17 +55,26 @@
 
 ---
 
-## 🧠 Skills and Interests
+## 🛠️ Work Experience (3+ years total)
 
-- **Research Interests**: Graph Theory, Genetic Algorithms, Mathematical Logic  
-  Additional: Combinatorics, Set Theory, Foundations of Mathematics, Category Theory, Functional Programming.
+- **Dragons Lake Entertainment**  
+  - Junior C++/UE Developer (Apr 2022 – Present, 2 years 6 months)  
+  - Intern C++/UE Developer (Oct 2021 – Mar 2022, 6 months)
 
-- **Technical Skills**:  
-  C++ (Unreal Engine), Haskell, C#, Java, LaTeX, Python (basic)
+- **Center for Responsible AI (Research Program)**  
+  - *Graph Pattern Matching* (Sep 2023 – Dec 2023, 4 months)
 
-- **Languages**:  
-  - Advanced English  
-  - Native Ukrainian
+- **National University of Kyiv-Mohyla Academy**  
+  - Assistant Professor, Department of Mathematics (Sep 2024 – Present)
+
+---
+
+## 🎓 Education
+
+- **Ph.D. in Applied Mathematics** (Sep 2024 – Jun 2028, ongoing)  
+  [National University of Kyiv-Mohyla Academy](https://www.ukma.edu.ua/eng/)  
+- **Master’s Degree in Computer Science** (Sep 2022 – Jun 2024)  
+- **Bachelor’s Degree in Software Engineering** (Sep 2018 – Jun 2022)
 
 ---
 
