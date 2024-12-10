@@ -52,7 +52,7 @@
 
 - **"A note on the triameter of graphs"**\
    *Discrete Applied Mathematics, 309 (2022), 278-284 (with S. Kozerenko and B. Oliynyk).*\
-   [Read](https://www.sciencedirect.com/science/article/abs/pii/S0166218X21004881)
+   [Read](https://www.sciencedirect.com/science/article/abs/pii/S0166218X21004881) [Preprint](https://arxiv.org/abs/2103.10806)
 
 ### Conference theses 
 
