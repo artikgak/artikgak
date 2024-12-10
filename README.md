@@ -45,30 +45,30 @@
 
 ### Papers 
 
-- **"Unique eccentric point graphs and their eccentric digraphs"**  
+- **"Unique eccentric point graphs and their eccentric digraphs"**\ 
    *Discrete Mathematics, **346 (12)** (2023), 113614 (with V. Haponenko, S. Kozerenko, A. Serdiuk).*\
    [Read](https://www.sciencedirect.com/science/article/pii/S0012365X2300300X)
 
-- **"A note on the triameter of graphs"**  
+- **"A note on the triameter of graphs"**\
    *Discrete Applied Mathematics, **309** (2022), 278-284 (with S. Kozerenko and B. Oliynyk).*\
    [Read](https://www.sciencedirect.com/science/article/abs/pii/S0166218X21004881)
 
 ### Conference theses 
 
-- **"Graph cohomomorphisms and metric mappings between their complements"**  
+- **"Graph cohomomorphisms and metric mappings between their complements"**\
    *XII All-Ukrainian Conference of Young Mathematicians (with Y.-L. Dekhtiar, S. Kozerenko and I. Romaniuk), pp.101-102.*\
    [Read](https://ekmair.ukma.edu.ua/server/api/core/bitstreams/5860ea4d-f1f6-404a-a2d6-5bf29283bae8/content)
 
-- **"Triameter of trees and block graphs"**  
+- **"Triameter of trees and block graphs"**\
    *International Algebraic Conference 2022 (with S. Kozerenko and B. Oliynyk), p.24.*\
    [Read](https://www.imath.kiev.ua/~algebra/algebra2022/abstracts)
 
-- **"Eccentric digraphs of unique point eccentric graphs"**  
+- **"Eccentric digraphs of unique point eccentric graphs"**\
    *X Ukrainian Scientific Conference of Young Mathematicians (with V. Haponenko, S. Kozerenko), pp. 84-85.*\
    [Read](http://matan.kpi.ua/public/files/2021/ysXconf/ysXabstracts.pdf)
 
-- **"Evolutionary search of unique-eccentric-point graphs with given properties"**  
-   *Shevchenkivska Vesna – 2023, p.77*\
+- **"Evolutionary search of unique-eccentric-point graphs with given properties"**\
+   *Shevchenkivska Vesna – 2023, p.77.*\
    [Read](https://probability.knu.ua/shv2023/ShV_2023.pdf)
 
 - **"Block operator iterations"**\
