@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Hak Artem
+# 👋 Hi, I'm Artem Hak
 
 🎓 **1st year Ph.D. student in Applied Mathematics at [National University of Kyiv-Mohyla Academy](https://www.ukma.edu.ua/eng/)**\
 &nbsp;📍&nbsp;&nbsp;**Location:** Kyiv/Poltava, Ukraine\
