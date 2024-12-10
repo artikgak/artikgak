@@ -43,31 +43,35 @@
 
 ## 📄 Publications
 
-1. **Unique eccentric point graphs and their eccentric digraphs**  
-   *Discrete Mathematics, 346 (12) (2023), 113614*  
-   [Read more](https://www.sciencedirect.com/science/article/pii/S0012365X2300300X)
+### Papers 
 
-2. **A note on the triameter of graphs**  
+- **Unique eccentric point graphs and their eccentric digraphs**  
+   *Discrete Mathematics, 346 (12) (2023), 113614 (with V. Haponenko, S. Kozerenko, A. Serdiuk).*
+   [Read](https://www.sciencedirect.com/science/article/pii/S0012365X2300300X)
+
+- **A note on the triameter of graphs**  
    *Discrete Applied Mathematics, 309 (2022), 278-284*  
-   [Read more](https://www.sciencedirect.com/science/article/abs/pii/S0166218X21004881)
+   [Read](https://www.sciencedirect.com/science/article/abs/pii/S0166218X21004881)
 
-3. **Graph cohomomorphisms and metric mappings between their complements**  
+### Conference theses 
+
+- **Graph cohomomorphisms and metric mappings between their complements**  
    *XII All-Ukrainian Conference of Young Mathematicians*  
-   [Read more](https://ekmair.ukma.edu.ua/server/api/core/bitstreams/5860ea4d-f1f6-404a-a2d6-5bf29283bae8/content)
+   [Read](https://ekmair.ukma.edu.ua/server/api/core/bitstreams/5860ea4d-f1f6-404a-a2d6-5bf29283bae8/content)
 
-4. **Triameter of trees and block graphs**  
+- **Triameter of trees and block graphs**  
    *International Algebraic Conference 2022*  
-   [Read more](https://www.imath.kiev.ua/~algebra/algebra2022/abstracts)
+   [Read](https://www.imath.kiev.ua/~algebra/algebra2022/abstracts)
 
-5. **Eccentric digraphs of unique point eccentric graphs**  
+- **Eccentric digraphs of unique point eccentric graphs**  
    *X Ukrainian Scientific Conference of Young Mathematicians*  
    [Read more](http://matan.kpi.ua/public/files/2021/ysXconf/ysXabstracts.pdf)
 
-6. **Evolutionary search of unique-eccentric-point graphs with given properties**  
+- **Evolutionary search of unique-eccentric-point graphs with given properties**  
    *Shevchenkivska Vesna – 2023*  
-   [Read more](https://probability.knu.ua/shv2023/ShV_2023.pdf)
+   [Read](https://probability.knu.ua/shv2023/ShV_2023.pdf)
 
-7. **Block operator iterations**  
+- **Block operator iterations**  
    *(Preprint available)*  
    [Read preprint](https://docs.google.com/document/d/1Z7XCDZkEUyx3IaNGK3WPWa8nxylM5d0197dQlJACSos/edit)
 
