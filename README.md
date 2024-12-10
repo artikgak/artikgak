@@ -32,14 +32,12 @@
 
 ## 🧠 Skills and Interests
 
-- **Research Interests**: Graph Theory, Genetic Algorithms, Mathematical Logic  
-  Additional: Combinatorics, Set Theory, Foundations of Mathematics, Category Theory, Functional Programming.
+- **Main research Interests**: Graph Theory, Genetic Algorithms, Mathematical Logic.\
+  **Additional:** Combinatorics, Set Theory, Foundations of Mathematics, Category Theory, Functional Programming.
 
-- **Technical Skills**:  
-  C++, Unreal Engine, Haskell, C#, Java, LaTeX, Python (basic)
+- **Technical Skills**:  C++, Unreal Engine, Haskell, C#, Java, LaTeX, Python (basic)
 
-- **Languages**:  
-  Advanced English, Native Ukrainian
+- **Languages**:  Advanced English, Native Ukrainian
 
 ---
 
