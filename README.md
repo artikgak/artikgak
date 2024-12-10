@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Hak Artem
 
-🎓 **1st year Ph.D. student in Applied Mathematics at [National University of Kyiv-Mohyla Academy](https://www.ukma.edu.ua/eng/)**
-📍 **Location:** Kyiv/Poltava, Ukraine
-📧 **Emails:** [artikgak@ukr.net](mailto:artikgak@ukr.net), [artem.hak@ukma.edu.ua](mailto:artem.hak@ukma.edu.ua)
-📚 **Google Scholar:** [Artem Hak](https://scholar.google.com)
+🎓 **1st year Ph.D. student in Applied Mathematics at [National University of Kyiv-Mohyla Academy](https://www.ukma.edu.ua/eng/)**\
+📍 **Location:** Kyiv/Poltava, Ukraine\
+📧 **Emails:** [artikgak@ukr.net](mailto:artikgak@ukr.net), [artem.hak@ukma.edu.ua](mailto:artem.hak@ukma.edu.ua)\
+📚 **Google Scholar:** [Artem Hak](https://scholar.google.com)\
 🔗 **LinkedIn:** [artem-hak-b025461a6](https://www.linkedin.com/in/artem-hak-b025461a6)
 
 ---
