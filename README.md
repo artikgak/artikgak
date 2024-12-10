@@ -3,9 +3,12 @@
 🎓 **Ph.D. Student in Applied Mathematics**  
 1st year at [National University of Kyiv-Mohyla Academy](https://www.ukma.edu.ua/eng/)
 
-📍 **Location:** Kyiv/Poltava, Ukraine  
+📍 **Location:** Kyiv/Poltava, Ukraine
+
 📧 **Emails:** [artikgak@ukr.net](mailto:artikgak@ukr.net), [artem.hak@ukma.edu.ua](mailto:artem.hak@ukma.edu.ua)
+
 📚 **Google Scholar:** [Artem Hak](https://scholar.google.com)
+
 🔗 **LinkedIn:** [artem-hak-b025461a6](https://www.linkedin.com/in/artem-hak-b025461a6)
 
 ---
@@ -24,10 +27,9 @@
 
 ---
 
-## 🎓 Education
+## 🎓 Education - [National University of Kyiv-Mohyla Academy](https://www.ukma.edu.ua/eng/)
 
-- **Ph.D. in Applied Mathematics** (Sep 2024 – Jun 2028, ongoing)  
-  [National University of Kyiv-Mohyla Academy](https://www.ukma.edu.ua/eng/)  
+- **Ph.D. in Applied Mathematics** (Sep 2024 – Jun 2028, ongoing)   
 - **Master’s Degree in Computer Science** (Sep 2022 – Jun 2024)  
 - **Bachelor’s Degree in Software Engineering** (Sep 2018 – Jun 2022)
 
