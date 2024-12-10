@@ -4,7 +4,7 @@
 &nbsp;📍&nbsp;&nbsp;**Location:** Kyiv/Poltava, Ukraine\
 📧 **Emails:** [artikgak@ukr.net](mailto:artikgak@ukr.net), [artem.hak@ukma.edu.ua](mailto:artem.hak@ukma.edu.ua)\
 📚 **Google Scholar:** [Artem Hak](https://scholar.google.com)\
-🔎 **Research Gate:** [Artem Hak]https://www.researchgate.net/profile/Artem-Hak
+🔎 **Research Gate:** [Artem Hak](https://www.researchgate.net/profile/Artem-Hak)\
 🔗 **LinkedIn:** [artem-hak](https://www.linkedin.com/in/artem-hak-b025461a6)
 
 ---
