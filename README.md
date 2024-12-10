@@ -11,15 +11,33 @@
 
 ## 🛠️ Work Experience (3+ years total)
 
-- **Dragons Lake Entertainment**
-  - Junior C++/UE Developer (Apr 2022 – Present, 2 years 6 months)  
-  - Intern C++/UE Developer (Oct 2021 – Mar 2022, 6 months)
+<ul style="padding-left: 0; margin-bottom: 0;">
+  <li>
+    <strong>Dragons Lake Entertainment</strong>
+    <ul style="margin-bottom: 0;">
+      <li>Junior C++/UE Developer (Apr 2022 – Present, 2 years 6 months)</li>
+      <li>Intern C++/UE Developer (Oct 2021 – Mar 2022, 6 months)</li>
+    </ul>
+  </li>
+</ul>
 
-- **National University of Kyiv-Mohyla Academy**
-  - Assistant Professor, Department of Mathematics (Sep 2024 – Present)
+<ul style="padding-left: 0; margin-bottom: 0;">
+  <li>
+    <strong>National University of Kyiv-Mohyla Academy</strong>
+    <ul style="margin-bottom: 0;">
+      <li>Assistant Professor, Department of Mathematics (Sep 2024 – Present)</li>
+    </ul>
+  </li>
+</ul>
 
-- **Center for Responsible AI (Research Program)**
-  - *Graph Pattern Matching* (Sep 2023 – Dec 2023, 4 months)
+<ul style="padding-left: 0; margin-bottom: 0;">
+  <li>
+    <strong>Center for Responsible AI (Research Program)</strong>
+    <ul style="margin-bottom: 0;">
+      <li>Graph Pattern Matching (Sep 2023 – Dec 2023, 4 months)</li>
+    </ul>
+  </li>
+</ul>
 
 ---
 
@@ -52,7 +70,7 @@
 
 - **"A note on the triameter of graphs"**\
    *Discrete Applied Mathematics, 309 (2022), 278-284 (with S. Kozerenko and B. Oliynyk).*\
-   [Read](https://www.sciencedirect.com/science/article/abs/pii/S0166218X21004881) [Preprint](https://arxiv.org/abs/2103.10806)
+   [Read](https://www.sciencedirect.com/science/article/abs/pii/S0166218X21004881) | [preprint](https://arxiv.org/abs/2103.10806)
 
 ### Conference theses 
 
@@ -74,7 +92,7 @@
 
 - **"Block operator iterations"**\
    *Current state, problems and prospects of business development, financial credit and accounting systems, (preprint pp.7-8).*\
-   [Read preprint, pp.7-8](https://docs.google.com/document/d/1Z7XCDZkEUyx3IaNGK3WPWa8nxylM5d0197dQlJACSos/edit)
+   [Preprint](https://docs.google.com/document/d/1Z7XCDZkEUyx3IaNGK3WPWa8nxylM5d0197dQlJACSos/edit)
 
 ---
 
