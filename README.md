@@ -11,14 +11,14 @@
 
 ## 🛠️ Work Experience (3+ years total)
 
-- **Dragons Lake Entertainment**  
+- **Dragons Lake Entertainment**\
   - Junior C++/UE Developer (Apr 2022 – Present, 2 years 6 months)  
   - Intern C++/UE Developer (Oct 2021 – Mar 2022, 6 months)
 
-- **National University of Kyiv-Mohyla Academy**  
+- **National University of Kyiv-Mohyla Academy**\
   - Assistant Professor, Department of Mathematics (Sep 2024 – Present)
 
-- **Center for Responsible AI (Research Program)**  
+- **Center for Responsible AI (Research Program)**\
   - *Graph Pattern Matching* (Sep 2023 – Dec 2023, 4 months)
 
 ---
