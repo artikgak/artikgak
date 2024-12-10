@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Hak Artem
 
 🎓 **1st year Ph.D. student in Applied Mathematics at [National University of Kyiv-Mohyla Academy](https://www.ukma.edu.ua/eng/)**\
-📍 **Location:** Kyiv/Poltava, Ukraine\
+&nbsp;📍&nbsp;&nbsp;**Location:** Kyiv/Poltava, Ukraine\
 📧 **Emails:** [artikgak@ukr.net](mailto:artikgak@ukr.net), [artem.hak@ukma.edu.ua](mailto:artem.hak@ukma.edu.ua)\
 📚 **Google Scholar:** [Artem Hak](https://scholar.google.com)\
 🔎 **Research Gate:** [Artem Hak]https://www.researchgate.net/profile/Artem-Hak
@@ -98,7 +98,7 @@
 
 ## 🌱 Hobbies & More
 
-- Active member of the [Students' Math Seminar](https://www.facebook.com/studmathseminar)  
+- Active member of the [Students' Math Seminar](https://www.facebook.com/studmathseminar).
 - Passionate about learning, teamwork, and contributing to exciting projects.
 
 
