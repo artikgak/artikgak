@@ -50,7 +50,7 @@
    [Read](https://www.sciencedirect.com/science/article/pii/S0012365X2300300X)
 
 - **"A note on the triameter of graphs"**  
-   *Discrete Applied Mathematics, **309** (2022), 278-284* (with S. Kozerenko and B. Oliynyk).*\
+   *Discrete Applied Mathematics, **309** (2022), 278-284 (with S. Kozerenko and B. Oliynyk).*\
    [Read](https://www.sciencedirect.com/science/article/abs/pii/S0166218X21004881)
 
 ### Conference theses 
@@ -65,15 +65,15 @@
 
 - **"Eccentric digraphs of unique point eccentric graphs"**  
    *X Ukrainian Scientific Conference of Young Mathematicians (with V. Haponenko, S. Kozerenko), pp. 84-85.*\
-   [Read more](http://matan.kpi.ua/public/files/2021/ysXconf/ysXabstracts.pdf)
+   [Read](http://matan.kpi.ua/public/files/2021/ysXconf/ysXabstracts.pdf)
 
 - **"Evolutionary search of unique-eccentric-point graphs with given properties"**  
    *Shevchenkivska Vesna – 2023, p.77*\
    [Read](https://probability.knu.ua/shv2023/ShV_2023.pdf)
 
 - **"Block operator iterations"**\
-   *(Preprint available, pp.7-8.)*
-   [Read preprint](https://docs.google.com/document/d/1Z7XCDZkEUyx3IaNGK3WPWa8nxylM5d0197dQlJACSos/edit)
+   *Current state, problems and prospects of business development, financial credit and accounting systems.*\
+   [Read preprint, pp.7-8](https://docs.google.com/document/d/1Z7XCDZkEUyx3IaNGK3WPWa8nxylM5d0197dQlJACSos/edit)
 
 ---
 
