@@ -99,8 +99,7 @@
 ## 🌱 Hobbies & More
 
 - Active member of the [Students' Math Seminar](https://www.facebook.com/studmathseminar).
-- Passionate about learning, teamwork, and contributing to exciting projects.
-
+- Hobbies: board games🎲, jigsaw and 3d puzzles🧩, guitar🎸, astronomy🔭🪐
 
 <!--
 **artikgak/artikgak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
