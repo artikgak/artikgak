@@ -1,4 +1,5 @@
-# 👋 Hi, I'm Artem Hak
+# 👋 Hi, I'm Artem Hak. Good to see you here!
+## Now I'm doing my Ph.D. in Applied Mathematics, working as a Game Developer, and as an Assistant Professor.
 
 🎓 **1st year Ph.D. student in Applied Mathematics at [National University of Kyiv-Mohyla Academy](https://www.ukma.edu.ua/eng/)**\
 &nbsp;📍&nbsp;&nbsp;**Location:** Kyiv/Poltava, Ukraine\
@@ -99,7 +100,7 @@
 ## 🌱 Hobbies & More
 
 - Active member of the [Students' Math Seminar](https://www.facebook.com/studmathseminar).
-- Hobbies: board games🎲, jigsaw and 3d puzzles🧩, guitar🎸, astronomy🔭🪐
+- Hobbies: board games🎲, jigsaw and 3d puzzles🧩, guitar🎸, astronomy🔭🪐.
 
 <!--
 **artikgak/artikgak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
