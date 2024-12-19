@@ -47,9 +47,9 @@
 
 - **Ph.D. in Applied Mathematics** (Sep 2024 – Sep 2028, ongoing), Academic Supervisor [Sergiy Kozerenko](https://scholar.google.com/citations?user=_lmN4FkAAAAJ&hl=uk)
 - **Master’s Degree in Computer Science** (Sep 2022 – Jun 2024)\
-  [Read Master's Thesis](https://ekmair.ukma.edu.ua/items/d96fffb7-61b5-4917-b850-49061a63b37c), Academic Supervisor [Sergiy Kozerenko](https://scholar.google.com/citations?user=_lmN4FkAAAAJ&hl=uk)
+  Thesis "[Unique eccentric point graphs](https://ekmair.ukma.edu.ua/items/d96fffb7-61b5-4917-b850-49061a63b37c)", Academic Supervisor [Sergiy Kozerenko](https://scholar.google.com/citations?user=_lmN4FkAAAAJ&hl=uk)
 - **Bachelor’s Degree in Software Engineering** (Sep 2018 – Jun 2022)\
-  [Read Bachelor's Thesis](https://ekmair.ukma.edu.ua/items/a9cb4c49-ef6c-4aa6-baa1-da8dae9d446b), Academic Supervisor [Sergiy Kozerenko](https://scholar.google.com/citations?user=_lmN4FkAAAAJ&hl=uk)
+  Thesis "[Triameter of connected graphs](https://ekmair.ukma.edu.ua/items/a9cb4c49-ef6c-4aa6-baa1-da8dae9d446b)", Academic Supervisor [Sergiy Kozerenko](https://scholar.google.com/citations?user=_lmN4FkAAAAJ&hl=uk)
 
 ---
 
