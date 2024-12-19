@@ -45,7 +45,7 @@
 
 ## 🎓 Education - [National University of Kyiv-Mohyla Academy](https://www.ukma.edu.ua/eng/)
 
-- **Ph.D. in Applied Mathematics** (Sep 2024 – Jun 2028, ongoing)   
+- **Ph.D. in Applied Mathematics** (Sep 2024 – Sep 2028, ongoing)   
 - **Master’s Degree in Computer Science** (Sep 2022 – Jun 2024)  
 - **Bachelor’s Degree in Software Engineering** (Sep 2018 – Jun 2022)
 
