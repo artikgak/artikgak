@@ -76,7 +76,7 @@
 
 ### Conference theses 
 
-- **"A search for regular K_3-irregular graphs"**\
+- **"A search for regular K<sub>3</sub>-irregular graphs"**\
    *Ukraine Mathematics Conference “At the End of the Year 2024”, p.30.*\
    [Read](https://drive.google.com/file/d/14jjhLFSBidEdpIteUdKxPRTW8NSC56SD/view)
 
