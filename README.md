@@ -81,7 +81,7 @@
    [Read](https://drive.google.com/file/d/14jjhLFSBidEdpIteUdKxPRTW8NSC56SD/view)
 
 - **"Graph cohomomorphisms and metric mappings between their complements"**\
-   *XII All-Ukrainian conference of young mathematicians (with Y.-L. Dekhtiar, S. Kozerenko and I. Romaniuk), pp.101-102.*\
+   *XII All-Ukrainian conference of young mathematicians (with Y.-L. Dekhtiar, S. Kozerenko and I. Romaniuk), 2024, pp.101-102.*\
    [Read](https://ekmair.ukma.edu.ua/server/api/core/bitstreams/5860ea4d-f1f6-404a-a2d6-5bf29283bae8/content)
 
 - **"Triameter of trees and block graphs"**\
@@ -97,7 +97,7 @@
    [Read](https://probability.knu.ua/shv2023/ShV_2023.pdf)
 
 - **"Block operator iterations"**\
-   *Current state, problems and prospects of business development, financial credit and accounting systems, (preprint pp.7-8).*\
+   *Current state, problems and prospects of business development, financial credit and accounting systems, 2023, (preprint pp.7-8).*\
    [Preprint](https://docs.google.com/document/d/1Z7XCDZkEUyx3IaNGK3WPWa8nxylM5d0197dQlJACSos/edit)
 
 ---
