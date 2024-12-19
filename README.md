@@ -76,6 +76,10 @@
 
 ### Conference theses 
 
+- **"A search for regular K_3-irregular graphs"**\
+   *Ukraine Mathematics Conference “At the End of the Year 2024”, p.30.*\
+   [Read](https://drive.google.com/file/d/14jjhLFSBidEdpIteUdKxPRTW8NSC56SD/view)
+
 - **"Graph cohomomorphisms and metric mappings between their complements"**\
    *XII All-Ukrainian conference of young mathematicians (with Y.-L. Dekhtiar, S. Kozerenko and I. Romaniuk), pp.101-102.*\
    [Read](https://ekmair.ukma.edu.ua/server/api/core/bitstreams/5860ea4d-f1f6-404a-a2d6-5bf29283bae8/content)
