@@ -27,7 +27,7 @@
   <li>
     <strong>National University of Kyiv-Mohyla Academy</strong>
     <ul style="margin-bottom: 0;">
-      <li>Assistant Professor, Department of Mathematics (Sep 2024 – Present)</li>
+      <li>Teacher Assistant, Department of Mathematics (Sep 2024 – Present)</li>
     </ul>
   </li>
 </ul>
