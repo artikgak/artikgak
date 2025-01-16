@@ -8,7 +8,7 @@
 📚 **Google Scholar:** [Artem Hak](https://scholar.google.com/citations?user=DXY5464AAAAJ&hl=uk)\
 🔎 **Research Gate:** [Artem Hak](https://www.researchgate.net/profile/Artem-Hak)\
 🔗 **LinkedIn:** [artem-hak](https://www.linkedin.com/in/artem-hak-b025461a6)\
-🍀 **ORCHID:** [Artem Hak](https://orcid.org/my-orcid?orcid=0009-0000-9084-0289)
+🍀 **ORCHID:** [Artem Hak](https://orcid.org/0009-0000-9084-0289)
 
 ---
 
