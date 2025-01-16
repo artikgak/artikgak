@@ -7,7 +7,8 @@
 📧 **Emails:** [artikgak@ukr.net](mailto:artikgak@ukr.net), [artem.hak@ukma.edu.ua](mailto:artem.hak@ukma.edu.ua)\
 📚 **Google Scholar:** [Artem Hak](https://scholar.google.com/citations?user=DXY5464AAAAJ&hl=uk)\
 🔎 **Research Gate:** [Artem Hak](https://www.researchgate.net/profile/Artem-Hak)\
-🔗 **LinkedIn:** [artem-hak](https://www.linkedin.com/in/artem-hak-b025461a6)
+🔗 **LinkedIn:** [artem-hak](https://www.linkedin.com/in/artem-hak-b025461a6)\
+🍀 **ORCHID:** [Artem Hak](https://orcid.org/my-orcid?orcid=0009-0000-9084-0289)
 
 ---
 
