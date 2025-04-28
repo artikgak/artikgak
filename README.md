@@ -44,6 +44,14 @@
 
 ---
 
+## 🚀 Featured Releases (Non-NDA)
+
+- **[Banana Defense | Fortnite](https://www.fortnite.com/@room8group/4708-1640-1360)**  
+  Developed as part of my work at Room 8 Group.  
+  Released publicly on Fortnite Creative (UEFN).
+
+---
+
 ## 🎓 Education - [National University of Kyiv-Mohyla Academy](https://www.ukma.edu.ua/eng/)
 
 - **Ph.D. in Applied Mathematics** (Sep 2024 – Sep 2028, ongoing), Academic Supervisor [Sergiy Kozerenko](https://scholar.google.com/citations?user=_lmN4FkAAAAJ&hl=uk)
