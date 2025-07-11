@@ -87,6 +87,10 @@
 
 ### Conference theses 
 
+- **"Unique eccentric point graphs of diameter at most four"**\
+  *XV Ukraine Algebra Conference, 8-12 July, 2025, p.53.*\
+  [Read](https://xvuac.mmf.com.ua/index.php/abstracts)
+
 - **"A search for regular K<sub>3</sub>-irregular graphs"**\
    *Ukraine Mathematics Conference “At the End of the Year 2024”, p.30.*\
    [Read](https://drive.google.com/file/d/14jjhLFSBidEdpIteUdKxPRTW8NSC56SD/view)
