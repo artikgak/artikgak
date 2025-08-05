@@ -77,6 +77,9 @@
 
 ### Papers 
 
+- **"Regular $K_3$-irregular graphs"** *(with S. Kozerenko and A. Serdiuk).*\
+   [preprint](https://arxiv.org/abs/2103.10806)
+
 - **"Unique eccentric point graphs and their eccentric digraphs"**\
    *Discrete Mathematics, **346 (12)** (2023), 113614 (with V. Haponenko, S. Kozerenko, A. Serdiuk).*\
    [Read](https://www.sciencedirect.com/science/article/pii/S0012365X2300300X)
