@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Artem. Good to see you here.
 
-### A mathematician and software engineer based in Kyiv, Ukraine. I'm currently pursuing a Ph.D. in Applied Mathematics and working on a research in Graph Theory and Genetic Algorithms.  I'm also working as a Game Developer, and as a Teacher Assistant.
+### A mathematician and software engineer based in Kyiv, Ukraine. I'm currently pursuing a PhD in Applied Mathematics and working on a research in Graph Theory and Genetic Algorithms.  I'm also working as a Game Developer, and as a Teacher Assistant.
 
 🎓 **1st year Ph.D. student in Applied Mathematics at [National University of Kyiv-Mohyla Academy](https://www.ukma.edu.ua/eng/)**\
 &nbsp;📍&nbsp;&nbsp;**Location:** Kyiv/Poltava, Ukraine\
