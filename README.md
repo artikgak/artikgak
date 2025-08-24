@@ -18,7 +18,8 @@
   <li>
     <strong>Dragons Lake Entertainment</strong>
     <ul style="margin-bottom: 0;">
-      <li>Junior C++/UE Developer (Apr 2022 – Present, 2 years 6 months)</li>
+      <li>Middle C++/UE Developer (June 2025 – Present)</li>
+      <li>Junior C++/UE Developer (Apr 2022 – Jul 2023 & Sep 2024 - May 2025)</li>
       <li>Intern C++/UE Developer (Oct 2021 – Mar 2022, 6 months)</li>
     </ul>
   </li>
