@@ -35,6 +35,15 @@
 
 <ul style="padding-left: 0; margin-bottom: 0;">
   <li>
+    <strong>Kyiv School of Economics</strong>
+    <ul style="margin-bottom: 0;">
+      <li>Researcher (Graph Theory and Network Analysis Laboratory) (Apr 2025 – Present)</li>
+    </ul>
+  </li>
+</ul>
+
+<ul style="padding-left: 0; margin-bottom: 0;">
+  <li>
     <strong>Center for Responsible AI (Research Program)</strong>
     <ul style="margin-bottom: 0;">
       <li>Graph Pattern Matching (Sep 2023 – Dec 2023, 4 months)</li>
