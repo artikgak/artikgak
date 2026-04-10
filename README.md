@@ -87,6 +87,9 @@
 
 ### Papers 
 
+- **"Regular $K_3$-regular graphs"** *(with S. Kozerenko, D. Lohvynov, and Y. Yarosh).*\
+   [preprint](https://arxiv.org/abs/2602.23517)
+
 - **"Regular $K_3$-irregular graphs"** *(with S. Kozerenko and A. Serdiuk).*\
    [preprint](https://arxiv.org/abs/2507.18776)
 
