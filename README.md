@@ -87,10 +87,16 @@
 
 ### Papers 
 
-- **"Regular $K_3$-regular graphs"** *(with S. Kozerenko, D. Lohvynov, and Y. Yarosh).*\
+- **"Triameter, distance packings, and vertex connectivity"** *(with S. Kozerenko), 2026.*\
+   [preprint](https://arxiv.org/abs/2611.17259)
+
+- **"There is no 8-regular $K_3$-irregular graph"** *(with S. Kozerenko and A. Serdiuk), 2026.*\
+   [preprint](https://arxiv.org/abs/2609.37978)
+
+- **"Regular $K_3$-regular graphs"** *(with S. Kozerenko, D. Lohvynov, and Y. Yarosh), 2026.*\
    [preprint](https://arxiv.org/abs/2602.23517)
 
-- **"Regular $K_3$-irregular graphs"** *(with S. Kozerenko and A. Serdiuk).*\
+- **"Regular $K_3$-irregular graphs"** *(with S. Kozerenko and A. Serdiuk), 2025.*\
    [preprint](https://arxiv.org/abs/2507.18776)
 
 - **"Unique eccentric point graphs and their eccentric digraphs"**\
